@@ -1,5 +1,5 @@
 {
-    "name": "yusufkandemir/microdata-parser",
+    "name": "topwebstudio/microdata-parser",
     "type": "library",
     "description": "Parse microdata from HTML documents with ease. PHP Implementation of W3C Microdata to JSON Specification.",
     "keywords": [
